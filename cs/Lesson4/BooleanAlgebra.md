@@ -1,9 +1,9 @@
 Boolean Algebra Notes
 ===
 
-  Boolean
+    Boolean
   
-TRUE | FALSE 
-ON   | OFF 
-1    | 0 
+* TRUE | FALSE
+* ON   | OFF
+* 1    | 0
 
