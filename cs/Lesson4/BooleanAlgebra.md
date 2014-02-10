@@ -17,15 +17,15 @@ For example:
 (521)<sub>10</sub> => (?)<sub>2</sub>
 
 Solution:  
-521/2 = 260R1  
-260/2 = 130R0  
-130/2 = 65R0  
-65/2 = 32R1  
-32/2 = 16R0  
-16/2 = 8R0  
-8/2 = 4R0  
-4/2 = 2R0  
-2/2 = 1R0
+521 / 2 = 260R1  
+260 / 2 = 130R0  
+130 / 2 = 65R0  
+65 / 2 = 32R1  
+32 / 2 = 16R0  
+16 / 2 = 8R0  
+8 / 2 = 4R0  
+4 / 2 = 2R0  
+2 / 2 = 1R0
 
 Once the number has been divided till the answer is 1, the number equivalent in Binary would be 1, with the remainders taken into accout concatenated behind it. In this case, the number becomes 1000001001 in the Binary system.
 
@@ -57,3 +57,7 @@ Solution:
 = 512 + 8 + 1 = 521
 
 Thus, (1000001001)<sub>2</sub> => (521)<sub>10</sub>
+
+<b>Hexadecimal System (16s Number System)</b>
+
+The Hexadecimal system is a simpler representation of the Binary system used in computing. It consists of 16 numbers, which can represent 4 bits in the Binary system. The system consist of numbers 0 to 9, and letters A to F (Representing 10 to 15 in the Decimal system). It is easier to write Hexadecimal numbers than Binary ones, and it is simpler to convert Hexadecimal numbers to Binary ones than from Decimal numbers. Hexadecimal comes from the root words Hexa (6) and Decimal (10).
