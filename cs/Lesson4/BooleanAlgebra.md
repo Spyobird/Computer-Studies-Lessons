@@ -48,8 +48,12 @@ Solution:
 0 - 2<sup>6</sup>  
 0 - 2<sup>5</sup>  
 0 - 2<sup>4</sup>  
-1 - 2<sup>3</sup> 
-0 - 2<sup>2</sup> 
+1 - 2<sup>3</sup>  
+0 - 2<sup>2</sup>  
 0 - 2<sup>1</sup>  
 1 - 2<sup>0</sup>
 
+1000001001 = 2<sup>9</sup> + 2<sup>3</sup> + 2<sup>0</sup>  
+= 512 + 8 + 1 = 521
+
+Thus, (1000001001)<sub>2</sub> --x (521)<sub>10</sub>
