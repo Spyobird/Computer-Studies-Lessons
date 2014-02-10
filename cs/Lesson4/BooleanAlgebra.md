@@ -42,6 +42,7 @@ let's pretend we don't and take it slow.
 Each digit of the Binary number can be represented by the digit multiplied by a power of 2.
 
 Solution:  
+B | D  
 1 * 2<sup>9</sup>  
 0 * 2<sup>8</sup>  
 0 * 2<sup>7</sup>  
@@ -53,7 +54,7 @@ Solution:
 0 * 2<sup>1</sup>  
 1 * 2<sup>0</sup>
 
-(1000001001)<sub>2</sub> = (2<sup>9</sup><sub>10</sub> + (2<sup>3</sup>)<sub>10</sub> + (2<sup>0</sup>)<sub>10</sub>   
+(1000001001)<sub>2</sub> = (2<sup>9</sup>)<sub>10</sub> + (2<sup>3</sup>)<sub>10</sub> + (2<sup>0</sup>)<sub>10</sub>   
 = (512)<sub>10</sub> + (8)<sub>10</sub> + (1)<sub>10</sub> = (521)<sub>10</sub>
 
 Thus, (1000001001)<sub>2</sub> => (521)<sub>10</sub>
