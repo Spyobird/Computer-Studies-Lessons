@@ -1,17 +1,15 @@
 Boolean Algebra Notes
 ===
 
-* Boolean
+<b>Boolean</b>
 
 Basically Boolean refers to true and false values.
   
-TRUE | FALSE
+<p>TRUE | FALSE</p>
+<p>ON   | OFF</p>
+<p>1    | 0</p>
 
-ON   | OFF
-
-1    | 0
-
-* Binary System (2s Number System)
+<b>Binary System (2s Number System)</b>
 
 The Binary system consists of 2 numbers, 1 and 0. Decimal numbers can be represented by Binary numbers. In order for us to write numbers in the Binary system, we would have to convert it from the 10s or Decimal system. To convert Decimal numbers to Binary numbers, repetitive division of 2 is used. The remainder is also taken into account.
 
