@@ -31,3 +31,17 @@ Once the number has been divided till the answer is 1, the number equivalent in 
 
 Thus,  
 (521)<sub>10</sub> ---x (1000001001)<sub>2</sub>
+
+Binary numbers can be converted back to Decimal ones for us to easily understand it. It is achieved by adding increasing powers of 2 which make up the Binary number.
+
+For example:  
+Although we know (1000001001)<sub>2</sub> ---x (521)<sub>10</sub>,  
+let's pretend we don't and take it slow.
+
+(1000001001)<sub>2</sub> --x (?)<sub>10</sub>  
+Each digit of the Binary number can be represented by the digit multiplied by a power of 2.
+
+Solution:  
+1 0 0 0 0 1 0 0 1  
+| | | | | | | | |  
+2<sup>8</sup> 2<sup>7</sup> 2<sup>6</sup> 2<sup>5</sup> 2<sup>4</sup> 2<sup>3</sup> 2<sup>2</sup> 2<sup>1</sup> 2<sup>0</sup>
