@@ -30,7 +30,7 @@ Solution:
 Once the number has been divided till the answer is 1, the number equivalent in Binary would be 1, with the remainders taken into accout concatenated behind it. In this case, the number becomes 1000001001 in the Binary system.
 
 Thus,  
-(521)<sub>10</sub> =>1000001001)<sub>2</sub>
+(521)<sub>10</sub> => (1000001001)<sub>2</sub>
 
 Binary numbers can be converted back to Decimal ones for us to easily understand it. It is achieved by adding increasing powers of 2 which make up the Binary number.
 
@@ -53,8 +53,8 @@ Solution:
 0 * 2<sup>1</sup>  
 1 * 2<sup>0</sup>
 
-1000001001 = 2<sup>9</sup> + 2<sup>3</sup> + 2<sup>0</sup>  
-= 512 + 8 + 1 = 521
+(1000001001)<sub>2</sub> = (2<sup>9</sup><sub>10</sub> + (2<sup>3</sup>)<sub>10</sub> + (2<sup>0</sup>)<sub>10</sub>   
+= (512)<sub>10</sub> + (8)<sub>10</sub> + (1)<sub>10</sub> = (521)<sub>10</sub>
 
 Thus, (1000001001)<sub>2</sub> => (521)<sub>10</sub>
 
