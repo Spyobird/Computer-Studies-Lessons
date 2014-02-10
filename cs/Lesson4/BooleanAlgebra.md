@@ -42,7 +42,6 @@ let's pretend we don't and take it slow.
 Each digit of the Binary number can be represented by the digit multiplied by a power of 2.
 
 Solution:  
-B | D  
 1 * 2<sup>9</sup>  
 0 * 2<sup>8</sup>  
 0 * 2<sup>7</sup>  
