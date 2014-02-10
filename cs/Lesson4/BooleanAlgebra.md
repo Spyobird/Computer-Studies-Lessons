@@ -5,9 +5,9 @@ Boolean Algebra Notes
 
 Basically Boolean refers to true and false values.
   
-<p>TRUE | FALSE</p>
-<p>ON   | OFF</p>
-<p>1    | 0</p>
+TRUE | FALSE  
+ON   | OFF  
+1    | 0  
 
 <b>Binary System (2s Number System)</b>
 
