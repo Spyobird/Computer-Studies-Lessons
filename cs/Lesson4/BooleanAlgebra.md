@@ -42,5 +42,14 @@ let's pretend we don't and take it slow.
 Each digit of the Binary number can be represented by the digit multiplied by a power of 2.
 
 Solution:  
-1  0  0  0  0  1  0  0  1  
-2<sup>8</sup> 2<sup>7</sup> 2<sup>6</sup> 2<sup>5</sup> 2<sup>4</sup> 2<sup>3</sup> 2<sup>2</sup> 2<sup>1</sup> 2<sup>0</sup>
+1 - 2<sup>9</sup>  
+0 - 2<sup>8</sup>  
+0 - 2<sup>7</sup>  
+0 - 2<sup>6</sup>  
+0 - 2<sup>5</sup>  
+0 - 2<sup>4</sup>  
+1 - 2<sup>3</sup> 
+0 - 2<sup>2</sup> 
+0 - 2<sup>1</sup>  
+1 - 2<sup>0</sup>
+
