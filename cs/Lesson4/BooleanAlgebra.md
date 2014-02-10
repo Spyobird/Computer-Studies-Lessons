@@ -3,7 +3,7 @@ Boolean Algebra Notes
 
 <b>Boolean</b>
 
-Boolean refers to true and false values.
+Boolean refers to a system with only true and false values.
   
 TRUE | FALSE  
 ON   | OFF  
